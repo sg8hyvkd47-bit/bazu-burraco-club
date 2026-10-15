@@ -1,0 +1,22 @@
+
+{
+  "name": "BAZÙ Burraco Club",
+  "short_name": "BAZÙ Burraco",
+  "description": "Il gioco di carte Burraco di BAZÙ Games.",
+  "lang": "it",
+  "id": "/bazu-burraco-club/",
+  "start_url": "/bazu-burraco-club/",
+  "scope": "/bazu-burraco-club/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090b20",
+  "theme_color": "#090b20",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
